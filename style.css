@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+    text-align: center;
+}
+th{
+    border: white;
+    background-color: black;
+    color: white;
+}
+.td1 {
+    background-color: orange;
+}
+.td2 {
+    background-color:green;
+}
+.td3 {
+     background-color:blue;
+}
+.td4 {
+    background-color:yellow;
+}
+.td5 {
+    background-color: red;
+}
+.td6 {
+    background-color: purple;
+}
+.round {
+        width: 120px;
+        height: 120px;
+        border-radius: 20px;
+        margin: 15px;
+}
